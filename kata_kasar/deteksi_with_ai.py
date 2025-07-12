@@ -1,3 +1,4 @@
+# Jalankan file init model terlebih dahulu sebelum menjalankan file ini.
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
 import re
 
