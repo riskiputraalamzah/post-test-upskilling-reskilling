@@ -1,0 +1,15 @@
+# Abaikan folder virtualenv
+venv/
+
+# Abaikan file sementara
+__pycache__/
+*.pyc
+
+# Abaikan model besar
+model/
+
+# Abaikan VSCode setting
+.vscode/
+
+# Abaikan file yang tidak penting
+.DS_Store
